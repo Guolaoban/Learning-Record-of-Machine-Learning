@@ -1,2 +1,2 @@
 # Learning-Record-of-Machine-Learning
-Study record of book 'Machine Learning in Action'
+A self-study record of book 'Machine Learning in Action'.
